@@ -50,21 +50,7 @@ A simple tool to convert `.flv` video files to `.mp4` format.
 By default, this tool converts `.flv` files to `.mp4`. Assuming you have a script (e.g., `convert.py`) in this repo:
 
 ```bash
-python convert.py input.flv output.mp4
+python flv_to_mp4_converter.py 
 ```
-
-Replace `convert.py` with the actual script name if different.
-
-## Example
-
-```bash
-python convert.py sample.flv sample.mp4
-```
-
-## License
-
-This project is licensed under the MIT License.
-
----
 
 *Feel free to contribute or open issues for suggestions and bug reports!*
