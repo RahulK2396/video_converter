@@ -6,3 +6,27 @@
 2025-07-17 12:23:38,416 - INFO - Successfully converted: flv_files\sample_1280x720_surfing_with_audio.flv -> mp4_output\sample_1280x720_surfing_with_audio.mp4
 2025-07-17 12:23:47,749 - INFO - Successfully converted: flv_files\sample_1920x1080.flv -> mp4_output\sample_1920x1080.mp4
 2025-07-17 12:23:51,546 - INFO - Successfully converted: flv_files\sample_960x400_ocean_with_audio.flv -> mp4_output\sample_960x400_ocean_with_audio.mp4
+2025-07-18 12:18:33,137 - INFO - Successfully converted: flv_files\100MB_720P_THETESTDATA.COM_flv.flv -> mp4_output\100MB_720P_THETESTDATA.COM_flv.mp4
+2025-07-18 12:19:01,109 - INFO - Successfully converted: flv_files\200MB_1080P_THETESTDATA.COM_flv.flv -> mp4_output\200MB_1080P_THETESTDATA.COM_flv.mp4
+2025-07-18 12:19:05,407 - INFO - Successfully converted: flv_files\sample_1280x720.flv -> mp4_output\sample_1280x720.mp4
+2025-07-18 12:19:14,749 - INFO - Successfully converted: flv_files\sample_1920x1080.flv -> mp4_output\sample_1920x1080.mp4
+2025-07-18 12:19:31,655 - INFO - Successfully converted: flv_files\sample_2560x1440.flv -> mp4_output\sample_2560x1440.mp4
+2025-07-18 12:20:06,425 - INFO - Successfully converted: flv_files\sample_3840x2160.flv -> mp4_output\sample_3840x2160.mp4
+2025-07-18 12:20:07,125 - INFO - Successfully converted: flv_files\sample_640x360.flv -> mp4_output\sample_640x360.mp4
+2025-07-18 12:20:08,106 - INFO - Successfully converted: flv_files\sample_960x540.flv -> mp4_output\sample_960x540.mp4
+2025-07-18 12:31:38,363 - INFO - Successfully converted: flv_files\100MB_720P_THETESTDATA.COM_flv.flv -> mp4_output\100MB_720P_THETESTDATA.COM_flv.mp4
+2025-07-18 12:31:38,558 - INFO - Thumbnail created: thumbnails\100MB_720P_THETESTDATA.COM_flv.jpg
+2025-07-18 12:32:05,436 - INFO - Successfully converted: flv_files\200MB_1080P_THETESTDATA.COM_flv.flv -> mp4_output\200MB_1080P_THETESTDATA.COM_flv.mp4
+2025-07-18 12:32:05,734 - INFO - Thumbnail created: thumbnails\200MB_1080P_THETESTDATA.COM_flv.jpg
+2025-07-18 12:32:09,948 - INFO - Successfully converted: flv_files\sample_1280x720.flv -> mp4_output\sample_1280x720.mp4
+2025-07-18 12:32:10,009 - INFO - Thumbnail created: thumbnails\sample_1280x720.jpg
+2025-07-18 12:32:19,415 - INFO - Successfully converted: flv_files\sample_1920x1080.flv -> mp4_output\sample_1920x1080.mp4
+2025-07-18 12:32:19,501 - INFO - Thumbnail created: thumbnails\sample_1920x1080.jpg
+2025-07-18 12:32:36,379 - INFO - Successfully converted: flv_files\sample_2560x1440.flv -> mp4_output\sample_2560x1440.mp4
+2025-07-18 12:32:36,525 - INFO - Thumbnail created: thumbnails\sample_2560x1440.jpg
+2025-07-18 12:33:13,198 - INFO - Successfully converted: flv_files\sample_3840x2160.flv -> mp4_output\sample_3840x2160.mp4
+2025-07-18 12:33:13,448 - INFO - Thumbnail created: thumbnails\sample_3840x2160.jpg
+2025-07-18 12:33:14,135 - INFO - Successfully converted: flv_files\sample_640x360.flv -> mp4_output\sample_640x360.mp4
+2025-07-18 12:33:14,225 - INFO - Thumbnail created: thumbnails\sample_640x360.jpg
+2025-07-18 12:33:15,277 - INFO - Successfully converted: flv_files\sample_960x540.flv -> mp4_output\sample_960x540.mp4
+2025-07-18 12:33:15,324 - INFO - Thumbnail created: thumbnails\sample_960x540.jpg
